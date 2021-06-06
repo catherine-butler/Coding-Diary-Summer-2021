@@ -161,3 +161,18 @@ Day 12: Apr 18
 **Today's Thoughts**
 
 - I need to read more around the syntax for while loops and functions. Hopefully this will help me problem solve the next steps.
+
+Day 13: June 6
+
+**Today's Progress**
+- Wk 11 repo was focused on UX and UI design
+- Spent 4 hours this afternoon learning the difference between the two. 
+- UX design is about designing the whole experience: focusing on how the user feels? their motivations? researching and testing and iterating this
+- UI design is about designing the whole interface: everythign the user interacts with essentially providing a solution to the conceptual questions posed in UX design. 
+- Both processes are intertwinned. Looked in the cycle of Design thinking and the creation of User personas
+- I also created a git hub progress project to monitor my workflow with the repos, and as a way to reflect on what we've learnt. Re-vist things that have been forgotten or need brushing up on and as a way of the School of Code seeing my progress. 
+
+
+**Today's Thoughts**
+- I have gone over the allotted hours to try and rectify the balance and get myself into a good place to mangae the next stretch of the course. 
+- I am keen to keep practicing my coding skills with free code camp and through code wars and hope that organising my time like this will help me fit in all the workflow. 
