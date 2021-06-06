@@ -5,7 +5,7 @@ Day 1: 30 March
 
 **Today's progress:**
 
-- I spent half the time on marksheet ready about HTML
+- Spent 1.5 hours on marksheet reading about HTML
 - Was getting to grips with VS code and starting my first website
 
 **Thoughts:**
@@ -13,12 +13,6 @@ Day 1: 30 March
 - It's been really interesting learning about the computer science behind terms we use everyday and de-mystifying what it all means
 - I feel VS code and I have a way to go before we understand each other but we'll get there.
 - It's quite difficult to visually adjust to new programmes and grow familiar with coding font and interfaces.
-- Here's an example of an error message
-
-  <img width="542" alt="Screenshot 2021-06-06 at 11 23 44" src="https://user-images.githubusercontent.com/81425720/120921054-c61d7200-c6b9-11eb-87e2-77e5a8e8a9e9.png">
-
-<img width="495" alt="Screenshot 2021-06-06 at 11 24 53" src="https://user-images.githubusercontent.com/81425720/120921075-db929c00-c6b9-11eb-8684-c962e7f36e78.png">
-
 
 Sources used: [https://marksheet.io/](https://marksheet.io/)
 
@@ -40,13 +34,13 @@ Day 3: Apr 5
 
 - Returned to tackle my avatar. Have managed to work out how to make glasses transparent(ish), and have reorganised the code in HTML and CSS and got rid of code that was redundant
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5e05d4bc-2b1b-49c8-9e91-f0e5e762ba64/Screenshot_2021-04-05_at_10.50.54.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5e05d4bc-2b1b-49c8-9e91-f0e5e762ba64/Screenshot_2021-04-05_at_10.50.54.png)
+<img width="153" alt="Screenshot 2021-06-06 at 11 27 28" src="https://user-images.githubusercontent.com/81425720/120921180-64113c80-c6ba-11eb-8ae5-fc620883d026.png">
+<img width="153" alt="Screenshot 2021-06-06 at 11 27 34" src="https://user-images.githubusercontent.com/81425720/120921181-65426980-c6ba-11eb-8b34-5b71d1e3e9ff.png">
 
-- learnt markdown! Edited the read me file about what i've learnt. SHaving a bit of trouoble with images so need to come back to that another day. still need to do [https://dev.to/](https://dev.to/) and add my days of code to this
+
+- learnt markdown! Edited the read me file about what i've learnt. Having a bit of trouble with images so need to come back to that another day. still need to do [https://dev.to/](https://dev.to/) and add my days of code to this
 - did the inspect tutorial
 - did line commander
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b3f396f6-a5ec-4983-8275-2a9390ce6628/Screenshot_2021-04-05_at_10.51.05.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b3f396f6-a5ec-4983-8275-2a9390ce6628/Screenshot_2021-04-05_at_10.51.05.png)
 
 **Thoughts:**
 
@@ -57,9 +51,10 @@ Day 4: Apr 6
 **Today's progress:**
 
 - Researchered and created a basic client form for my partner to fill out some more aesthetic details for the look and layout of their website. Manged to push that up to our shared repository with no dramas.
-- Began the basic layout of my website using [https://www.w3schools.com/howto/howto_make_a_website.asp](https://www.w3schools.com/howto/howto_make_a_website.asp) to help. Will then edit the layout as more information arrives. Wasn't able to push this to the repositry sadly.
+- Began the basic layout of my website using [https://www.w3schools.com/howto/howto_make_a_website.asp](https://www.w3schools.com/howto/howto_make_a_website.asp) to help. Will then edit the layout as more information arrives. Struggled to push it to the repositry 
 
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9aadab73-4235-4fe3-be6b-a87514c8aed8/Screenshot_2021-04-06_at_09.57.34.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9aadab73-4235-4fe3-be6b-a87514c8aed8/Screenshot_2021-04-06_at_09.57.34.png)
+<img width="495" alt="Screenshot 2021-06-06 at 11 29 39" src="https://user-images.githubusercontent.com/81425720/120921229-8f942700-c6ba-11eb-9c2c-91294fda8a5c.png">
+
 
     **Today's Thoughts:**
 
@@ -145,8 +140,9 @@ Day 11: Apr 17
 - Today I was working on Java Script and the Week 3, Exercise 1 looking at how to create java script for alert windows, favourite numbers, and the weather.
 - I found the common mistake I was making was failing to define variables. I was making guesses at how I might set a variable before trialling it and then googling the bug.  was getting stuck on defining variables.
 
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ec26fa7e-c380-4894-92a1-371af5eed42b/Screenshot_2021-04-17_at_17.17.46.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ec26fa7e-c380-4894-92a1-371af5eed42b/Screenshot_2021-04-17_at_17.17.46.png)
+<img width="619" alt="Screenshot 2021-06-06 at 11 30 54" src="https://user-images.githubusercontent.com/81425720/120921246-b0f51300-c6ba-11eb-92ac-06d8e694a621.png">
 
+ 
 **Today's Thoughts**
 
 - I have a basic grasp of conditional statements but think I need to work on my understanding of boolean statements and loops and differentiating between the two.
@@ -160,7 +156,7 @@ Day 12: Apr 18
 - Now for steps 1 and 2 I made a script that worked. When it came to inserting the while and if statements I was struggling to create the syntax that counted the attempts and also broke the loop if the password was correct.
 - I also tried to make a second version of steps 1 and 2 with a function element. I couldn't get this bit to work unfortunately.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9b70fa24-fd12-4ccc-ab74-c999b85407a6/Screenshot_2021-04-18_at_16.30.44.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9b70fa24-fd12-4ccc-ab74-c999b85407a6/Screenshot_2021-04-18_at_16.30.44.png)
+<img width="547" alt="Screenshot 2021-06-06 at 11 31 42" src="https://user-images.githubusercontent.com/81425720/120921267-ccf8b480-c6ba-11eb-9915-52941130900f.png">
 
 **Today's Thoughts**
 
