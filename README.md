@@ -15,9 +15,10 @@ Day 1: 30 March
 - It's quite difficult to visually adjust to new programmes and grow familiar with coding font and interfaces.
 - Here's an example of an error message
 
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3bf77856-069f-4eda-a06a-904188e6efe2/Screenshot_2021-03-30_at_17.12.54.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3bf77856-069f-4eda-a06a-904188e6efe2/Screenshot_2021-03-30_at_17.12.54.png)
+  <img width="542" alt="Screenshot 2021-06-06 at 11 23 44" src="https://user-images.githubusercontent.com/81425720/120921054-c61d7200-c6b9-11eb-87e2-77e5a8e8a9e9.png">
 
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dc73fd0b-2eca-490d-87d4-785b0c07b5b1/Screenshot_2021-03-30_at_17.13.30.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dc73fd0b-2eca-490d-87d4-785b0c07b5b1/Screenshot_2021-03-30_at_17.13.30.png)
+<img width="495" alt="Screenshot 2021-06-06 at 11 24 53" src="https://user-images.githubusercontent.com/81425720/120921075-db929c00-c6b9-11eb-8684-c962e7f36e78.png">
+
 
 Sources used: [https://marksheet.io/](https://marksheet.io/)
 
