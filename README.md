@@ -176,3 +176,17 @@ Day 13: June 6
 **Today's Thoughts**
 - I have gone over the allotted hours to try and rectify the balance and get myself into a good place to mangae the next stretch of the course. 
 - I am keen to keep practicing my coding skills with free code camp and through code wars and hope that organising my time like this will help me fit in all the workflow. 
+
+Day 14: June 7
+
+**Today's Progress**
+- I completed the reading for wk 11 on UX and UI design and necessary design sprint research
+- I started the responsive web course on free code camp
+- I met with my partner sellani for a codewars session 
+- Met with my group for the UX project and created the qualitative user survery form
+- Wrote up notes from the past 2 weeks of coding and codewars on Notion 
+
+**Today's Thoughts**
+- After a few weeks of feeling overwhelmed and out of my depth, taking actions to ensure I can continue my JS journey, manage any missed work and stay on top of upcomign projects 
+- Feeling like I am progressing slowly, after re-reading old notes today and starting new courses HTML and JS are feeling more familiar 
+- Notice that in a group dynamic I am great at generating ideas. Need to work on pulling out of the details and focusing what is acheiveable in the project now 
