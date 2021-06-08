@@ -6,3 +6,7 @@
 4. Scrimba https://scrimba.com/learn/design/course-introduction-cEKWgWSN - UX design learning platform
 5. FrontEnd Mentor https://www.frontendmentor.io/solutions - design implementation challenges to test CSS and HTML skills
 6. Chrome debugger https://developer.chrome.com/docs/devtools/javascript/ 
+7. Glitch
+8. Js Fiddle
+9. CodePen
+10. Free code camp 
