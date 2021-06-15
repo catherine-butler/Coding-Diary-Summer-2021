@@ -190,3 +190,33 @@ Day 14: June 7
 - After a few weeks of feeling overwhelmed and out of my depth, taking actions to ensure I can continue my JS journey, manage any missed work and stay on top of upcomign projects 
 - Feeling like I am progressing slowly, after re-reading old notes today and starting new courses HTML and JS are feeling more familiar 
 - Notice that in a group dynamic I am great at generating ideas. Need to work on pulling out of the details and focusing what is acheiveable in the project now 
+
+
+Day 15: June 13
+**Today's Progress**
+- Kate and I reflected on user insights and created some buzzwords based of users comments on applicaiton process and their org preferences
+- We narrowed down the user profiles to 2 user personas to make it easier to design our app
+- We did the 5 whys to identify the user problem statement 
+- We began the dreamer phase of the disney ideation for the app
+- we interviewed Becki Floyd about her expereince of her volunteer organisations application process and website
+
+<img width="606" alt="Dreamer Phase" src="https://user-images.githubusercontent.com/81425720/122119520-37c78f80-ce21-11eb-820b-71107497c36f.png">
+<img width="628" alt="User Personas" src="https://user-images.githubusercontent.com/81425720/122119529-38f8bc80-ce21-11eb-898b-7068ef70c5ed.png">
+
+**Today's Thoughts**
+ - Made a real effort to engage deep listening, be open and supportive about ideas discussed 
+ - Found it really interesting honing in on the 2 personas and their potenital needs
+ - The 5 whys was so helpful at understadning our potential user's needs, including the applicants and the limitations of volunteer organisations who might also use this app
+ - I'm really strong in the disney ideation phase and the realist phase
+
+Day 16: June 15
+
+**Today's Progress**
+-  Completed the Diseny Ideation phase with my group on the Wk 11 repo. 
+-  Acted as scribe and mediator in the group session to achieve the completion of the ideation pase
+-  Began the user flow for the final app 
+
+**Today's Thoughts**
+- Really good at mediating and moving the team forward in terms of tasks and timelines
+- Perhaps my weak point is the visualitsion of the user flow, or this is something that I need practice on to get quicker at. 
+- Was great to meet as a team to make some decisions. It is more diffcult to decison make as a 4 so interesting to see how we can delegate tasks moving forward.  partoicularly mindful of others time constraints. 
