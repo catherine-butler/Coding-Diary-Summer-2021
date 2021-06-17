@@ -220,3 +220,18 @@ Day 16: June 15
 - Really good at mediating and moving the team forward in terms of tasks and timelines
 - Perhaps my weak point is the visualitsion of the user flow, or this is something that I need practice on to get quicker at. 
 - Was great to meet as a team to make some decisions. It is more diffcult to decison make as a 4 so interesting to see how we can delegate tasks moving forward.  partoicularly mindful of others time constraints. 
+
+Day 17: June 16 
+
+**Today's Progress**
+- In the Wednesday session today, we did a group retrospective. https://metroretro.io/board/LBBO9LIUPI59
+<img width="397" alt="Screenshot 2021-06-16 at 20 02 30" src="https://user-images.githubusercontent.com/81425720/122380623-f984ba00-cf5f-11eb-8ed3-fa9cfde2b581.png">
+<img width="424" alt="Screenshot 2021-06-16 at 20 02 18" src="https://user-images.githubusercontent.com/81425720/122380627-fab5e700-cf5f-11eb-8493-7da2bdbcd1ae.png">
+<img width="534" alt="Screenshot 2021-06-16 at 20 02 02" src="https://user-images.githubusercontent.com/81425720/122380629-fb4e7d80-cf5f-11eb-968f-7dc0f015c48c.png">
+<img width="478" alt="Screenshot 2021-06-16 at 20 01 51" src="https://user-images.githubusercontent.com/81425720/122380631-fbe71400-cf5f-11eb-96b6-3bdb6e5f296b.png">
+- Also during the session, we began to tackle a level 4 kyu on codewars
+
+**Today's Thoughts**
+- was really helpful to do a group respective and to enter into the conversation with an honest and kind approach. We were able to make some constructive decisions moving forward and even planning for combatting rough seas in the future life off the project.
+- I was pretty tired today from other work commitments, so sadly, the 4 kyu really didn't make sense. Further research needed. 
+
