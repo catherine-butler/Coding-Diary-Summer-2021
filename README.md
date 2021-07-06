@@ -235,3 +235,9 @@ Day 17: June 16
 - was really helpful to do a group respective and to enter into the conversation with an honest and kind approach. We were able to make some constructive decisions moving forward and even planning for combatting rough seas in the future life off the project.
 - I was pretty tired today from other work commitments, so sadly, the 4 kyu really didn't make sense. Further research needed. 
 
+Day 18: Jul 6
+
+**Today's Progress** 
+- Today I learned how to make my computer a server with Node.JS. I opened my computer terminal (not the VS code terminal) cmd+space, then had to use cd to work my way through the files to the one where i was doing the test and then all I needed to do to initialise it was type node before the name of .js file i was working in: node myfirst.js
+
+**Today's Thoughts**
