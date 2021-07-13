@@ -241,3 +241,12 @@ Day 18: Jul 6
 - Today I learned how to make my computer a server with Node.JS. I opened my computer terminal (not the VS code terminal) cmd+space, then had to use cd to work my way through the files to the one where i was doing the test and then all I needed to do to initialise it was type node before the name of .js file i was working in: node myfirst.js
 
 **Today's Thoughts**
+
+Day 19: Jul 13
+
+**Today's Progress**
+
+**Today's Thoughts**
+
+<img width="536" alt="Screenshot 2021-07-13 at 17 29 12" src="https://user-images.githubusercontent.com/81425720/125512967-984bec42-0b43-4262-a61c-67680e220bfd.png">
+
